@@ -1,2 +1,1 @@
-# PrepCourse-Henry2
-este es un repositorio de prueba del modulo 2 del curso de henry
+este comando es una prueba de como crear un repostorio  lpm
